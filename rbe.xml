@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="kibria5" fetch="https://github.com/kibria5" />
+  <project path="vendor/rbe" name="vendor_rbe" remote="kibria5" revision="main" />
+</manifest>
